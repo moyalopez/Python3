@@ -14,8 +14,6 @@ if opcion == 1:
  print (multiplicacion)
 if opcion == 2:
  print (div)
-if opcion < 1:
-    print ("no esta la opcion")
-if opcion > 2:
-    print ("no esta la opcion")
+else:
+ print ("no esta la opcion")
 
